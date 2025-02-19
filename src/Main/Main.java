@@ -11,5 +11,7 @@ public class Main {
 
         controleProdutos.adicionarProduto(eletronico);
 
+        controleProdutos.listarProdutos();
+
     }
 }
